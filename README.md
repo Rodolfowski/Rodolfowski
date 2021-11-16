@@ -1,7 +1,7 @@
 ### Olá eu sou o Rodolfo,Analsita e desenvolvedor apaixonado por tecnologia! 🔭
 <section style="display:flex;">
 <h2 style="text-align=center">CONHECIMENTO EM DESENVOLVIMENTO</h2>
-<div style="al"><br>
+<div style=""><br>
   <img align="center" alt="Rodolfo-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Rodolfo-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Rodolfo-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -15,6 +15,9 @@
   <img align="center" alt="Rodolfo-Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Rodolfo-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
+ <br>
+  <a onclick="window.alert('Em breve estará aqui!')" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rodolfo-miliszewski-2b8765150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 <!--
