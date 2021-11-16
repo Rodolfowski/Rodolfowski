@@ -1,6 +1,6 @@
-### Olá eu sou o Rodolfo,Analsita e desenvolvedor apaixonado por tecnologia! 🔭
+### Olá eu sou o Rodolfo,Analsita e desenvolvedor ,apaixonado por tecnologia! 🔭
 <section style="display:flex;">
-<h2 style="text-align=center">CONHECIMENTO EM DESENVOLVIMENTO</h2>
+<h2 style="text-align=center">CONHECIMENTOS EM DESENVOLVIMENTO</h2>
 <div style=""><br>
   <img align="center" alt="Rodolfo-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Rodolfo-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -14,6 +14,8 @@
   <img align="center" alt="Rodolfo-MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Rodolfo-Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Rodolfo-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+   <img align="center" alt="Rodolfo-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
 </div>
  <br>
   <hr>
