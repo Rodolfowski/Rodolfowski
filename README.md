@@ -1,7 +1,7 @@
 ### Olá eu sou o Rodolfo,Analsita e desenvolvedor ,apaixonado por tecnologia! 🔭
 <section style="display:flex;">
-<h2 style="text-align=center">CONHECIMENTOS EM DESENVOLVIMENTO</h2>
-<div style=""><br>
+<h2 style="text-align:center">CONHECIMENTOS EM DESENVOLVIMENTO</h2>
+<div style="padding:1rem"><br>
   <img align="center" alt="Rodolfo-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Rodolfo-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Rodolfo-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
