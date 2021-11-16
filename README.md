@@ -1,7 +1,7 @@
 ### Olá eu sou o Rodolfo,Analsita e desenvolvedor apaixonado por tecnologia! 🔭
-
-<h2 style="align=center">C O N H E C I M E N T O E M D E S E N V O L V I M E N T O</h2>
-<div style="display: inline_block"><br>
+<section style="display:flex;justify-content:space-between">
+<h2 style="align=center">CONHECIMENTO E M DESENVOLVIMENTO</h2>
+<div><br>
   <img align="center" alt="Rodolfo-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Rodolfo-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Rodolfo-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -15,6 +15,7 @@
   <img align="center" alt="Rodolfo-Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Rodolfo-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
+
 
 <!--
 **Rodolfowski/Rodolfowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
