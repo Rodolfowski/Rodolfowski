@@ -19,6 +19,8 @@
 </div>
  <br>
   <hr>
+  <img align="center" alt="Devs" height="600" style="border-radius:3rem;" src="https://cdn.dribbble.com/users/314873/screenshots/4000731/diggi-media.gif">
+  <hr>
   <a href="#" onclick="window.alert('Em breve estará aqui!');" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodolfo-miliszewski-2b8765150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
